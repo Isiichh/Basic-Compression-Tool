@@ -1,4 +1,4 @@
-RLE Compression Tool v0.2
+RLE Compression Tool v0.3
 
 A simple Run-Lenght Encoding compressor and decompressor in c++ made as a learning project
 
@@ -7,6 +7,7 @@ Features:
 -Decompress previously compressed files
 -Works with any file type (binary safe)
 -Command-line interface
+-Simple compression/decompression statistics
 
 Requirements:
 C++ compiler
