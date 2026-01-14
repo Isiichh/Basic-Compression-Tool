@@ -22,4 +22,4 @@ How to use:
     Compression:
         ```.\rle compress input.txt output.rle```
     Decompression:
-        ```bash.\rle decompress input.rle output.txt```
+        ```.\rle decompress input.rle output.txt```
