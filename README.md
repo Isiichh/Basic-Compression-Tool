@@ -15,11 +15,11 @@ Tested on Windows, should work for Linux/macOS
 How to compile:
 Open a terminal in the project folder: 
 
-```bash
-g++ src/*.cpp -o rle
+```g++ src/*.cpp -o rle```
+
 
 How to use:    
     Compression:
-        .\rle compress input.txt output.rle
+        ```.\rle compress input.txt output.rle```
     Decompression:
-        .\rle decompress input.rle output.txt
+        ```bash.\rle decompress input.rle output.txt```
